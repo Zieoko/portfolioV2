@@ -5,9 +5,8 @@
 }
 
 body{
-    background: #eaeaea;
-    overflow: hidden;
-}
+  background: url(./image/14720205.jpg);
+  overflow: hidden;
 
 .en-tete{
   position: static;
@@ -150,4 +149,5 @@ body{
 .button button:hover{
     background: #ababab;
     color: #fff;
+
 }
