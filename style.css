@@ -5,7 +5,7 @@
 }
 
 body{
-  background: url(./images/14720205.jpg) no-repeat center fixed; -webkit-background-size:cover;
+  background: url(./images/14720205.jpg);
   overflow: hidden;
 }
 
@@ -152,6 +152,7 @@ body{
     color: #fff;
 
 }
+
 
 
 
