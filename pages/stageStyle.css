@@ -160,3 +160,11 @@ body{
   font-size: 20px;
   font-family: system-ui;
 }
+
+.scroller {
+  width: auto;
+  height: 1200px;
+  overflow-y: scroll;
+  scrollbar-color: rgb(0, 153, 255) rgb(255, 0, 0);
+  scrollbar-width: thin;
+}
