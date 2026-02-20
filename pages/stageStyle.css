@@ -163,7 +163,7 @@ body{
 
 .scroller {
   width: auto;
-  height: 1200px;
+  height: 900px;
   overflow-y: scroll;
   scrollbar-color: rgb(0, 153, 255) rgb(255, 0, 0);
   scrollbar-width: thin;
